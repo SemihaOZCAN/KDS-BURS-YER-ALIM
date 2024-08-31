@@ -1,0 +1,1 @@
+MATLAB tabanlı bursiyer seçme sistemi, başvuranların verilerini analiz ederek en uygun adayları belirlemeyi amaçlar. Sistem, başvuru kriterlerini değerlendirir, başvuranların akademik başarıları ve diğer faktörleri göz önünde bulundurarak puanlama yapar. Kullanıcı dostu arayüzü ile verimli ve adil bir bursiyer seçimi sağlar.
